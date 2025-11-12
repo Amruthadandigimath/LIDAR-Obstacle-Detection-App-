@@ -133,8 +133,9 @@ X, Y, Z
 
 For queries or collaboration, reach out:
 
-* Vishnu V — [gvs.vishnuv@gmail.com](mailto:gvs.vishnuv@email.com)
+* Vishnu V — [gvs.vishnuv@gmail.com](mailto:gvs.vishnuv@gmail.com)
 * Amrutha D — [amruthadandigimath@gmail.com](mailto:amruthadandigimath@gmail.com)
 
 ```
+
 
